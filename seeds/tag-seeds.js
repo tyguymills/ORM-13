@@ -17,13 +17,13 @@ const tagData = [
     tag_name: 'green',
   },
   {
-    tag_name: 'white',
+    tag_name: 'Flannel',
   },
   {
-    tag_name: 'gold',
+    tag_name: 'black',
   },
   {
-    tag_name: 'pop culture',
+    tag_name: 'Dress',
   },
 ];
 

@@ -36,6 +36,12 @@ const productData = [
     price: 31.99,
     stock:12,
     category_id:6
+  },
+  {
+    product_name:'Socks',
+    price:5.99,
+    stock:79,
+    category_id:7
   }
 ];
 
